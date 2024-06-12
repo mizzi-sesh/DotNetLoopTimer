@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\VSC.csproj": {}
+    "C:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\DotNetLoopTimer\\VSC.csproj": {}
   },
   "projects": {
-    "c:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\VSC.csproj": {
+    "C:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\DotNetLoopTimer\\VSC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\VSC.csproj",
+        "projectUniqueName": "C:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\DotNetLoopTimer\\VSC.csproj",
         "projectName": "VSC",
-        "projectPath": "c:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\VSC.csproj",
+        "projectPath": "C:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\DotNetLoopTimer\\VSC.csproj",
         "packagesPath": "C:\\Users\\minerva.mizzi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\obj\\",
+        "outputPath": "C:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\DotNetLoopTimer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\minerva.mizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",

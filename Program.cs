@@ -2,6 +2,10 @@
 using static System.Console;
 
     public sealed class LoopTimer{
+
+        public static void Main() {
+        
+        }
         private static CancellationTokenSource cT_S = new();
         private  CancellationToken cToken;
         private static readonly Lazy<LoopTimer> _lazy = new(() => new LoopTimer());
@@ -90,5 +94,7 @@ using static System.Console;
             }
         }
     }
+
+    
 
 

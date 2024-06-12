@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\VSC.csproj",
+      "projectUniqueName": "C:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\DotNetLoopTimer\\VSC.csproj",
       "projectName": "VSC",
-      "projectPath": "C:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\VSC.csproj",
+      "projectPath": "C:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\DotNetLoopTimer\\VSC.csproj",
       "packagesPath": "C:\\Users\\minerva.mizzi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\obj\\",
+      "outputPath": "C:\\Users\\minerva.mizzi\\Documents\\Code\\VSC\\DotNetLoopTimer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\minerva.mizzi\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -12,3 +12,17 @@ C:\Users\minerva.mizzi\Documents\Code\VSC\obj\Debug\net7.0\refint\VSC.dll
 C:\Users\minerva.mizzi\Documents\Code\VSC\obj\Debug\net7.0\VSC.pdb
 C:\Users\minerva.mizzi\Documents\Code\VSC\obj\Debug\net7.0\VSC.genruntimeconfig.cache
 C:\Users\minerva.mizzi\Documents\Code\VSC\obj\Debug\net7.0\ref\VSC.dll
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\obj\Debug\net7.0\VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\obj\Debug\net7.0\VSC.AssemblyInfoInputs.cache
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\obj\Debug\net7.0\VSC.AssemblyInfo.cs
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\obj\Debug\net7.0\VSC.csproj.CoreCompileInputs.cache
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\obj\Debug\net7.0\VSC.dll
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\obj\Debug\net7.0\refint\VSC.dll
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\obj\Debug\net7.0\VSC.pdb
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\bin\Debug\net7.0\VSC.exe
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\bin\Debug\net7.0\VSC.deps.json
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\bin\Debug\net7.0\VSC.runtimeconfig.json
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\bin\Debug\net7.0\VSC.dll
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\bin\Debug\net7.0\VSC.pdb
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\obj\Debug\net7.0\VSC.genruntimeconfig.cache
+C:\Users\minerva.mizzi\Documents\Code\VSC\DotNetLoopTimer\obj\Debug\net7.0\ref\VSC.dll
